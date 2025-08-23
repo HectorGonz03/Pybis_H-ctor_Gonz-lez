@@ -1,2 +1,2 @@
-# Pybis_H-ctor_Gonz-lez
+# Proyecto Papelería Pybis
 repositorio curso python 
